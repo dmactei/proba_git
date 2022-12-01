@@ -1,0 +1,15 @@
+{
+  "name": "01_intro",
+  "version": "1.0.0",
+  "description": "By [Demi Maceiras](http://albertobasalo.dev)  29/11/2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
